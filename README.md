@@ -1,6 +1,5 @@
 # lightSAE: Lightweight Shared-Auxiliary Embedding for Multivariate Time Series Forecasting
 
-**📖 Research Paper**: *Shared-Auxiliary Embedding Framework for Heterogeneous Channel Modeling in Multivariate Time Series Forecasting*
 
 ## 🎯 Project Overview
 
